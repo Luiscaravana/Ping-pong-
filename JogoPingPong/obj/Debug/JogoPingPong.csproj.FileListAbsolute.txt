@@ -1,0 +1,14 @@
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.csprojAssemblyReference.cache
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.Form1.resources
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.frmMenu.resources
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.Properties.Resources.resources
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.csproj.GenerateResource.cache
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.csproj.CoreCompileInputs.cache
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\bin\Debug\JogoPingPong.exe.config
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\bin\Debug\JogoPingPong.exe
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\bin\Debug\JogoPingPong.pdb
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.exe
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.pdb
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.FormLogin.resources
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\bin\Debug\jogadores.mdb
+C:\Users\Luís Caravana\arasuite\Desktop\PSI 12ºANO\JogoPingPong\JogoPingPong\obj\Debug\JogoPingPong.FormNewUser.resources
